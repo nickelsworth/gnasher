@@ -1,0 +1,14 @@
+*.a
+*.bak
+*.exe
+*.tpu
+*.mid
+*.arj
+*.zip
+*.ppu
+*.o
+*.$$$
+fp__*.*
+*~
+bin
+tmp
